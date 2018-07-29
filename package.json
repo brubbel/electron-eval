@@ -22,7 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "cross-spawn": "^5.1.0",
-    "electron": "^1.6.11",
+    "electron": ">2.0.0",
     "ndjson": "^1.5.0"
   },
   "devDependencies": {
